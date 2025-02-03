@@ -2,7 +2,7 @@
 
 Overview
 
-MyHealth is a medical prescription management app that allows users to securely store and access their medical prescriptions, doctor details, and health records. The app ensures seamless tracking of medical history and improves healthcare management with an intuitive and user-friendly interface.
+HII-CARE is a medical prescription management app that allows users to securely store and access their medical prescriptions, doctor details, and health records. The app ensures seamless tracking of medical history and improves healthcare management with an intuitive and user-friendly interface.
 
 Features
 
